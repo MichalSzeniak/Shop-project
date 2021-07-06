@@ -44,10 +44,10 @@ const Navigation = () => {
             <Form inline>
                 <FormControl
                   type="text"
-                  placeholder="Search"
+                  placeholder="Szukaj"
                   className="mr-sm-2"
                 />
-                <Button variant="outline-primary">Search</Button>
+                <Button variant="outline-primary">Szukaj</Button>
               </Form>
               <div className="basket__box">
               <img className="basket-img" src={basket} alt="" />

@@ -1,0 +1,139 @@
+[ 
+    {
+      "specialOffer": [
+        {
+          "id": "8c432ece-cfb2-424a-9219-ea3bb00110eb",
+          "name": "Soap",
+          "description": "Incidunt quis aliquid eius dolor voluptatem consequatur et. Eos consectetur repellat voluptatem culpa. Asperiores consequatur fugiat hic ut modi dicta molestiae .",
+          "price": "323.00",
+          "img": "https://images.unsplash.com/photo-1622560480654-d96214fdc887?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+        },
+        {
+          "id": "9c31a99e-11c5-47c4-b7f9-982f30fb0895",
+          "name": "Sausages",
+          "description": "Voluptatum aut quaerat. Corporis quia mollitia earum et quis. Quaerat sed dicta perspiciatis similique ex quo quidem fugit accusamus. Nihil quam minus velit et ut in.",
+          "price": "177.00",
+          "img": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+        },
+        {
+          "id": "d4660f41-5bd9-4f3e-9bda-7a9c42e1abe5",
+          "name": "Tuna",
+          "description": "Alias molestiae voluptatem aspernatur nostrum placeat. Et nam velit quod enim error voluptatum eveniet. Fuga quasi est beatae est.",
+          "price": "729.00",
+          "img": "https://images.unsplash.com/photo-1562546106-b9cb3a76a206?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+        }
+      ]
+    },
+      {"offer":[
+        
+      {
+        "id": "c48ba687-6879-4ad7-8e2a-db38201d3a9b",
+        "name": "Shirt",
+        "description": "Nostrum rerum ut qui consequatur laborum. Nostrum facere est laboriosam voluptatum necessitatibus aliquam maxime quia. Consequatur eveniet non voluptatem quos ea vitae. Numquam provident ratione est quia occaecati quaerat velit quis perferendis. Excepturi enim et itaque ut.",
+        "price": "660.00"
+      },
+      {
+        "id": "4d671f7e-5b36-4b2f-971f-9229b7eb346c",
+        "name": "Bacon",
+        "description": "Sed recusandae numquam incidunt voluptatibus omnis. Adipisci enim occaecati ut suscipit quis dolorem dolores. Quia saepe recusandae aliquid repellendus soluta.",
+        "price": "32.00"
+      },
+      {
+        "id": "a8fe1cf6-cf10-41c7-a07e-aa78b95ffa75",
+        "name": "Mouse",
+        "description": "Amet ab debitis quo ut voluptas amet. Placeat dolor recusandae voluptas et iusto et et nostrum ex. Modi repudiandae dolorum ex aliquam sit. Accusamus sed a maxime ratione commodi. Dolor non consequatur tempore deserunt ad. Ullam culpa fuga.",
+        "price": "721.00"
+      },
+      {
+        "id": "12535c6a-9fc8-4f21-94c1-b239b3d95ae8",
+        "name": "Shoes",
+        "description": "Quod ipsa ut reprehenderit dolor qui earum at tenetur. Magnam dignissimos et omnis at. Atque qui excepturi nostrum sed id nihil ipsum eligendi adipisci. Temporibus beatae quia maiores similique officiis qui quasi. Magnam occaecati numquam sed nisi aut sit.",
+        "price": "163.00"
+      },
+      {
+        "id": "00612102-c875-4a3e-bdf6-ab873adb0b3c",
+        "name": "Bike",
+        "description": "Quis in laboriosam temporibus qui architecto consequuntur. Nostrum iusto placeat veritatis sit odit. Numquam placeat consequuntur. Repellat voluptatem praesentium nihil magni.",
+        "price": "991.00"
+      },
+      {
+        "id": "4c701806-15ff-4012-898e-8f3598901eb5",
+        "name": "Chicken",
+        "description": "Enim nemo quis suscipit architecto. Assumenda totam velit ut assumenda. Maxime voluptatem in et error modi. Animi exercitationem adipisci qui nam eius provident et voluptas labore. Optio repudiandae occaecati voluptate est possimus.",
+        "price": "720.00"
+      },
+      {
+        "id": "0a9aab0e-88bc-4da1-a211-50bccca4808b",
+        "name": "Bacon",
+        "description": "Velit est cum iure eum sit repudiandae praesentium. Incidunt aut vitae. Repudiandae ut fuga ullam mollitia corporis mollitia asperiores sapiente ea.",
+        "price": "500.00"
+      },
+      {
+        "id": "baa1942d-633f-4257-b925-58290e82386a",
+        "name": "Sausages",
+        "description": "Dolore laudantium praesentium odio eos tempora mollitia asperiores. Qui nam dolorem numquam officia. Mollitia non voluptatibus fugit reiciendis sapiente esse. Omnis voluptates laborum. Vel odio aut.",
+        "price": "303.00"
+      },
+      {
+        "id": "c95c9d2f-5729-4630-b46b-d28767c3a062",
+        "name": "Computer",
+        "description": "Ut vel facere rem aut. Vero fugit sint. Maxime voluptas itaque totam consequatur commodi. Voluptates totam ut eaque veritatis ut sed voluptate veritatis esse. Dolorem illo et corporis non magnam nulla.",
+        "price": "302.00"
+      },
+      {
+        "id": "b1e688f6-652c-4f0a-b769-d2d3b6810663",
+        "name": "Chair",
+        "description": "Nostrum fuga eaque dolor beatae quis. Unde optio aut iure aliquam aut aut nesciunt quibusdam vel. Delectus eius autem aut aut omnis dolorem explicabo.",
+        "price": "599.00"
+      },
+      {
+        "id": "d4b85ba0-1a49-440d-a0fb-5846aaf9307d",
+        "name": "Car",
+        "description": "Quo odio dignissimos. Ea vitae incidunt eveniet quam sapiente quo. Culpa autem facere et est beatae reprehenderit. Cumque autem ducimus ipsam sed sed eos temporibus labore porro. Perspiciatis quis omnis consequuntur ipsa voluptas repellat omnis similique recusandae.",
+        "price": "398.00"
+      },
+      {
+        "id": "25784215-a7a1-42b5-a3a3-ae7b2614645e",
+        "name": "Bacon",
+        "description": "Modi sunt labore repudiandae nisi quo magni culpa in. Sapiente fugiat possimus. At aut et occaecati voluptas sed dolorum ullam cupiditate molestiae. Corporis rem esse. Dolor incidunt asperiores aliquid ea rerum reiciendis.",
+        "price": "365.00"
+      },
+      {
+        "id": "289d133a-83f6-45cf-818f-c3c751cbe0ee",
+        "name": "Chicken",
+        "description": "Fugiat vero repudiandae. Exercitationem quam aut veritatis autem iste perspiciatis molestias. Eaque alias eum impedit quod alias voluptatem tenetur quis. Odio magni aut cumque sed sit nam delectus. At nulla sed dolores adipisci iusto expedita architecto et.",
+        "price": "388.00"
+      },
+      {
+        "id": "524d14f2-13a3-4c60-b011-eea69ffc6372",
+        "name": "Shoes",
+        "description": "Itaque et non provident cupiditate neque sit. Expedita explicabo provident voluptatem laudantium beatae iste. Non illum itaque cumque nobis voluptatem.",
+        "price": "22.00"
+      },
+      {
+        "id": "0f0db89a-2bef-4100-b75a-00d543028b2b",
+        "name": "Hat",
+        "description": "Reiciendis a omnis minus voluptas accusantium. Quod consectetur expedita repellat reprehenderit. Rerum sequi commodi accusamus dolores voluptatum et molestiae ad labore.",
+        "price": "340.00"
+      },
+      {
+        "id": "674b8018-205a-4255-affb-ed8a78817c62",
+        "name": "Towels",
+        "description": "Voluptatem sint ut dolore dolorem. Quis rem nesciunt magnam quasi minus non quos illo. Enim soluta error et molestiae quia quidem vitae maxime. Non beatae accusamus unde et corporis voluptas quaerat iusto.",
+        "price": "654.00"
+      },
+      {
+        "id": "0fc75b53-470e-4711-ae8a-bd5fa957976c",
+        "name": "Mouse",
+        "description": "Et autem sint blanditiis perspiciatis. Perspiciatis vel quibusdam necessitatibus ullam voluptatem assumenda. Ad adipisci ut qui ut nam. Quia maxime ratione numquam facilis dolores. Minima molestiae et quae placeat omnis maiores. Harum tenetur explicabo error.",
+        "price": "458.00"
+      },
+      {
+        "id": "664c40d9-41e5-48f2-96a2-3c0ae7270a63",
+        "name": "Bacon",
+        "description": "Illo nihil ut soluta voluptatem qui et repellendus. Asperiores qui ea voluptatem aut nihil a est ea. Et soluta esse eaque enim voluptatibus similique perspiciatis voluptatibus sit. At laborum labore eligendi ut nesciunt ad minima aut.",
+        "price": "420.00"
+      }
+      ]
+      }
+    ]

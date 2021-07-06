@@ -1,0 +1,22 @@
+.specialOffer__box {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.specialOffer__item {
+    padding: 16px;
+}
+
+.cardImg {
+    padding: 16px;
+    object-fit: cover;
+    max-height: 240px;
+}
+
+.specialOffer__title {
+    padding: 16px;
+    border-bottom: 7px solid grey;
+}
