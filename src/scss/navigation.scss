@@ -1,0 +1,32 @@
+.basket-img {
+    cursor: pointer;
+    margin-left: 8px;
+    padding: 8px;
+    background-color: rgb(180, 180, 180);
+    border-radius: 30%;
+    transition: 0.3s background-color ease-in-out;
+
+    &:hover {
+        background-color: rgb(129, 147, 150);
+    }
+}
+
+.basket__box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.basket-amount {
+    background-color: white;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    position: absolute;
+    top: -8px;
+    right: -8px;
+}
