@@ -7,7 +7,7 @@ const SpecialOffer = ({ specialOffer }) => {
   return (
       <Container>
         <div className="specialOffer__box">
-          <h2 className="specialOffer__title">Special Offer</h2>
+          <h2 className="specialOffer__title">SPECIALNA OFERTA</h2>
         <CardGroup>
           <Row md={1} lg={3}>
             {specialOffer && specialOffer.map((item) => (

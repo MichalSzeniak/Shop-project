@@ -3,7 +3,6 @@ import { Card, Button } from "react-bootstrap";
 // import img1 from '../../../assets/special-offer/img1.jpg'
 
 const SpecialProductItme = ({ item }) => {
-  console.log(item.img)
   return (
     <div className="specialOffer__item">
       <Card>
