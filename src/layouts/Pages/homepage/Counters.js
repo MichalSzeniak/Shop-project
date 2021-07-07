@@ -13,7 +13,7 @@ const Counters = () => (
     <Container>
     <Row md={1} lg={3}>
     <article className="counter__box">
-      <img src={icon1} alt="" />
+      <img src={icon2} alt="" />
       <CountUp end={120621} redraw={false}>
         {({ countUpRef, start }) => (
             <VisibilitySensor onChange={start} delayedCall>
@@ -24,7 +24,7 @@ const Counters = () => (
     <h3>SPRZEDANYCH PRODUKTÓW</h3>
       </article>
       <article className="counter__box">
-      <img src={icon2} alt="" />
+      <img src={icon1} alt="" />
       <CountUp end={16} redraw={false}>
         {({ countUpRef, start }) => (
             <VisibilitySensor onChange={start} delayedCall>
