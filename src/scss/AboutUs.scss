@@ -1,0 +1,38 @@
+.aboutUs {
+    position: relative;
+    margin-top: 64px;
+    padding: 64px 0;
+    background: linear-gradient(96.14deg, rgba(225, 236, 228, 0.34) 3.03%, rgba(168, 166, 120, 0.37) 103.79%);
+    overflow: hidden;
+
+    &::before {
+        position: absolute;
+        top: 55%;
+        left: 40%;
+        z-index: -2;
+        content: url(../assets/discuss-issue.svg);
+        transform: translate(-50%, -50%) scale(5);
+    }
+
+    &::after {
+        content: '';
+        width: 120px;
+        height: 500px;
+        background-color: rgba(13, 92, 37, 0.26);
+        position: absolute;
+        top: -100px;
+        left: -90px;
+        transform: rotate(30deg);
+        z-index: -1;
+    }
+
+    &__header {
+        font-size: 48px;
+    }
+
+    &__paragraph {
+        font-size: 24px;
+        font-weight: 600;
+        color: rgb(53, 50, 50);
+    }
+}
